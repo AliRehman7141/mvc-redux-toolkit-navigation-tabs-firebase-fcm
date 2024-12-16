@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/MonaSans.ttf",
+      "sha1": "5a800179788b9c8f6c464ff824abdb90862633ee"
+    },
+    {
+      "path": "assets/fonts/index.js",
+      "sha1": "eb759b7e67786996343069b32bd0b3f73914ae66"
+    }
+  ]
+}
