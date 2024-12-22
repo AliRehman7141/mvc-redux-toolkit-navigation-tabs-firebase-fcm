@@ -102,7 +102,7 @@ android/app/
 - Ensure the `google-services` plugin is applied in your `android/build.gradle` file:
 ```gradle
 dependencies {
-   classpath 'com.google.gms:google-services:4.3.15' // Check Firebase documentation for the latest version
+    classpath 'com.google.gms:google-services:4.4.2'
 }
 ```
 In your android/app/build.gradle file, add:
